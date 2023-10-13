@@ -1,4 +1,3 @@
 Flask
 Werkzeug==2.2.2
 gunicorn
-Python
